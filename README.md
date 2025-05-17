@@ -8,9 +8,6 @@
 
 <br/>
 
-<img src="https://github-readme-stats-sooty-tau-55.vercel.app/api?username=gabriell-s&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Gabriel's GitHub stats" />
-
-
 </div>
 
 # 👋 Olá! Eu sou Gabriel
@@ -69,6 +66,16 @@ Sou desenvolvedor de software full stack, com experiência desde 2018, apaixonad
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)  
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)  
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center"> 
+
+<img src="https://github-readme-stats-sooty-tau-55.vercel.app/api?username=gabriell-s&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Gabriel's GitHub stats" />
+
+</div>
 
 ---
 
