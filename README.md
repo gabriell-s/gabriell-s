@@ -16,10 +16,10 @@ Sou desenvolvedor de software full stack, com experiência desde 2018, apaixonad
 
 <div align="center">
 
-[![Python, Django, PHP](https://skillicons.dev/icons?i=py,django,php)](https://skillicons.dev)  
-[![Postgres, Mysql, Sqlite, Aws, Azure](https://skillicons.dev/icons?i=postgres,mysql,sqlite,aws,azure&perline=15)](https://skillicons.dev)  
-[![Vue, Vuetify, React, Angular, Pinia, Html, Bootstrap, Css, Javascript](https://skillicons.dev/icons?i=vue,vuetify,react,angular,pinia,html,bootstrap,css,js&perline=15)](https://skillicons.dev)  
-[![Git, GitLab, GitHub, GitHub, Linux, Windows, Docker, VSCode, Postman, npm, Yarn, Discord](https://skillicons.dev/icons?i=git,gitlab,github,githubactions,linux,windows,docker,vscode,postman,npm,yarn,discord&perline=15)](https://skillicons.dev)
+[![Python, Django, PHP](https://skillicons.dev/icons?i=py,django,php "Python, Django, PHP")](https://skillicons.dev)  
+[![Postgres, Mysql, Sqlite, Aws, Azure](https://skillicons.dev/icons?i=postgres,mysql,sqlite,aws,azure "Postgres, Mysql, Sqlite, Aws, Azure")](https://skillicons.dev)  
+[![Vue, Vuetify, React, Angular, Pinia, Html, Bootstrap, Css, Javascript](https://skillicons.dev/icons?i=vue,vuetify,react,angular,pinia,html,bootstrap,css,js "Vue, Vuetify, React, Angular, Pinia, Html, Bootstrap, Css, Javascript")](https://skillicons.dev)  
+[![Git, GitLab, GitHub, GitHub Actions, Linux, Windows, Docker, VSCode, Postman, npm, Yarn, Discord](https://skillicons.dev/icons?i=git,gitlab,github,githubactions,linux,windows,docker,vscode,postman,npm,yarn,discord "Git, GitLab, GitHub, GitHub Actions, Linux, Windows, Docker, VSCode, Postman, npm, Yarn, Discord")](https://skillicons.dev)
 
 </div>
 
