@@ -21,7 +21,13 @@ Sou desenvolvedor de software full stack, com experiência desde 2018, apaixonad
 [![Vue, Vuetify, React, Angular, Pinia, Html, Bootstrap, Css, Javascript](https://skillicons.dev/icons?i=vue,vuetify,react,angular,pinia,html,bootstrap,css,js&perline=15)](https://skillicons.dev)  
 [![Git, GitLab, GitHub, GitHub, Linux, Windows, Docker, VSCode, Postman, npm, Yarn, Discord](https://skillicons.dev/icons?i=git,gitlab,github,githubactions,linux,windows,docker,vscode,postman,npm,yarn,discord&perline=15)](https://skillicons.dev)
 
-## </div>
+</div>
+
+## 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel--silveira)
+
+---
 
 ## 🛠️ Tecnologias & Stacks
 
@@ -76,12 +82,6 @@ Sou desenvolvedor de software full stack, com experiência desde 2018, apaixonad
 <img src="https://github-readme-stats-sooty-tau-55.vercel.app/api?username=gabriell-s&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Gabriel's GitHub stats" />
 
 </div>
-
----
-
-## 📫 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel--silveira)
 
 ---
 
